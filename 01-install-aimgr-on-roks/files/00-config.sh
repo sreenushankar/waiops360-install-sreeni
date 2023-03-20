@@ -1,0 +1,10 @@
+#!/bin/bash
+
+## Entitlement key
+export ENTITLEMENT_KEY=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJJQk0gTWFya2V0cGxhY2UiLCJpYXQiOjE2Nzg4NjE4MTQsImp0aSI6IjA2ZDhjNzI5NjkyYjRkZTZiZDgxY2I1M2YzMGY1YzQ3In0.62jxOpeOJPCHW7Bx9tS0e4hXAXic9IXWbwIawgKS9wU
+
+export SUBSCRIPTION_CHANNEL=v3.6
+export NAMESPACE=cp4waiops
+
+export AI_MANAGER_STORAGE_CLASS=ibmc-file-gold-gid
+export AI_MANAGER_STORAGE_CLASS_LARGE_BLOCK=ibmc-file-gold-gid
